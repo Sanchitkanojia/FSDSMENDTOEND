@@ -1,6 +1,6 @@
 # this is my end to end project
 
-# frist initialize the git
+# first initialize the git
 ```
 git init
 ```
