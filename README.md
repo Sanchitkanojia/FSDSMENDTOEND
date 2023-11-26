@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 MLFLOW_TRACKING_URI=https://dagshub.com/kanojiasanchit01/FSDSMENDTOEND.mlflow \
 MLFLOW_TRACKING_USERNAME=kanojiasanchit01 \
-MLFLOW_TRACKING_PASSWORD=your_token \
+MLFLOW_TRACKING_PASSWORD=33bf8f56243835292d5c40e8db3e3a4aab9ce0b4
 python script.py
 
 Run this to export as env variables:
