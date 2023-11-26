@@ -46,9 +46,9 @@ pip install -r requirements.txt
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow \
-MLFLOW_TRACKING_USERNAME=sunny.savita \
-MLFLOW_TRACKING_PASSWORD=3c2c8cd1436ad32b510cfdd84944a528ba4fb650 \
+MLFLOW_TRACKING_URI=https://dagshub.com/kanojiasanchit01/FSDSMENDTOEND.mlflow \
+MLFLOW_TRACKING_USERNAME=kanojiasanchit01 \
+MLFLOW_TRACKING_PASSWORD=your_token \
 python script.py
 
 Run this to export as env variables:
