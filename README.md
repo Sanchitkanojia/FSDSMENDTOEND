@@ -59,7 +59,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/kanojiasanchit01/FSDSMENDTOEND.ml
 
 export MLFLOW_TRACKING_USERNAME=kanojiasanchit01
 
-export MLFLOW_TRACKING_PASSWORD=your_token
+export MLFLOW_TRACKING_PASSWORD=33bf8f56243835292d5c40e8db3e3a4aab9ce0b4
 
 ```
 
