@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/jupyter_notebook/Ineuron_notes/week_26/25_nov/FSDSMENDTOEND/mlruns/0/455c3a10c67e43b0a6f505cc7d78233a/artifacts
+end_time: 1701470066049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 455c3a10c67e43b0a6f505cc7d78233a
+run_name: merciful-hog-165
+run_uuid: 455c3a10c67e43b0a6f505cc7d78233a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701470053678
+status: 3
+tags: []
+user_id: lenovo
