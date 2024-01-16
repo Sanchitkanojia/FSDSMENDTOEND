@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/jupyter_notebook/Ineuron_notes/week_26/25_nov/FSDSMENDTOEND/mlruns/0/a95c2a292fd4428ca7b268178ca3fcaf/artifacts
+end_time: 1701520101563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a95c2a292fd4428ca7b268178ca3fcaf
+run_name: adaptable-toad-279
+run_uuid: a95c2a292fd4428ca7b268178ca3fcaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701520092479
+status: 3
+tags: []
+user_id: lenovo
